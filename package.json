@@ -21,7 +21,7 @@
     "tns-platform-declarations": "^3.0.0"
   },
   "peerDependencies": {
-    "tns-core-modules": "3.0.0"
+    "tns-core-modules": "^3.0.0"
   },
   "bugs": {
     "url": "https://github.com/triniwiz/nativescript-twitter/issues"
